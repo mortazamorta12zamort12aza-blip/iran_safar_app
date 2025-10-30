@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "تهران",
+        "province_fa": "تهران",
+        "cities": [
+          {
+            "name": "تهران",
+            "lat": 35.6892,
+            "lng": 51.389
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      }
+    }
+  ]
+}
